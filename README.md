@@ -52,7 +52,7 @@ README.md
 
 ## 🔗 How to Use This Project
 
-1. **Main analysis:** open [`eniac_discount_analysis.ipynb`](notebooks/eniac_discount_analysis.ipynb)
+1. **Main analysis:** open [`eniac_discount_analysis.ipynb`](notebook/eniac_discount_analysis.ipynb)
 2. **Data:** loaded directly from Google Drive links inside the notebook — no manual download required
 3. **Run the code:** open in Google Colab and run all cells top to bottom
 4. **Dependencies:** standard data science stack, no special setup
