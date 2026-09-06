@@ -1,6 +1,3 @@
-# eniac-discount-analysis
-Data cleaning and discount analysis of ~250k e-commerce order lines (pandas, seaborn)
-
 # Eniac Discount Strategy Analysis with Python & Pandas
 
 ## 🎯 Project Overview
@@ -70,5 +67,7 @@ README.md
 ## 📧 Contact
 
 **Email:** sharon.schwaab@outlook.de  
-LinkedIn: [Sharon Schwaab]([link](https://www.linkedin.com/in/sharon-schwaab/))
-**GitHub:** [sharon-schwaab]([link]https://github.com/sharon-schwaab)
+
+**LinkedIn:** [Sharon Schwaab](https://www.linkedin.com/in/sharon-schwaab/)
+
+**GitHub:** [sharon-schwaab](https://github.com/sharon-schwaab)
